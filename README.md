@@ -96,7 +96,5 @@ sudo snap install x  >> Install snap package x
 
 
 
-
-
-
+continues..
 
