@@ -1,12 +1,12 @@
 # Learning-Linux
 
-pwd               >> Print the current working directory
+`pwd`              >> Print the current working directory
 
-cd x              >> Change the current directory to x
+`cd x`              >> Change the current directory to x
 
-cd ~              >> Change to the home directory
+`cd ~`              >> Change to the home directory
 
-cd ..             >> Move one directory up
+`cd ..`             >> Move one directory up
 
 cd ../..          >> Move two directories up
 
