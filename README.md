@@ -1,6 +1,6 @@
 # Learning-Linux
 
-`pwd`              >> Print the current working directory
+```pwd```              >> Print the current working directory
 
 `cd x`              >> Change the current directory to x
 
